@@ -16,6 +16,8 @@ Welcome to the repository for a dynamic Chat Bot, utilizing the power of Langcha
 
 - `Chatbot.py`: The main script that launches the Chat Bot. It includes the logic of the bot and sets up the Gradio interface to allow for real-time user interaction.
 
+- `Resources`: This directory is designated for storing the resource files which the bot will use as its knowledge base.
+
 For more details on each file, please refer to the comments within the scripts which explain the specifics of the code and its functionality.
 
 ## Getting Started
